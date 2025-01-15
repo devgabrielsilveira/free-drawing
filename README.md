@@ -48,9 +48,11 @@ Manipulação do DOM com JavaScript.
 Eventos de clique e mouse para interação.
 Boas práticas de projeto
 
-🌟 Contato
-Se você tiver dúvidas ou sugestões, fique à vontade para entrar em contato:
+## 📬 Contato
 
-LinkedIn: https://www.linkedin.com/in/gabriel-silveira-67979b18a/
+Em caso de dúvidas ou sugestões, entre em contato:
 
+- **Email**: devgabrielsilveira@gmail.com
+- **LinkedIn**: https://www.linkedin.com/in/gabriel-silveira-67979b18a/
 
+Desenvolvido por Gabriel Silveira 🚀
